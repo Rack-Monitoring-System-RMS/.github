@@ -10,3 +10,4 @@ We could find no other open source project that met all our requirements, includ
 
 ## If you want to know more you can start here!
 Checkout the [system architecture](https://github.com/Rack-Monitoring-System-RMS/Documentation/blob/main/Architecture.md) and look at the [project tree](https://github.com/Rack-Monitoring-System-RMS/Documentation/blob/main/README.md).
+<br>
